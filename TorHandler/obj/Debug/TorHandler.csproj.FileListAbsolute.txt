@@ -1,0 +1,6 @@
+C:\Users\Hakkı Besim\source\repos\TorHandler\TorHandler\bin\Debug\TorHandler.pdb
+C:\Users\Hakkı Besim\source\repos\TorHandler\TorHandler\obj\Debug\TorHandler.csprojResolveAssemblyReference.cache
+C:\Users\Hakkı Besim\source\repos\TorHandler\TorHandler\obj\Debug\TorHandler.csproj.CoreCompileInputs.cache
+C:\Users\Hakkı Besim\source\repos\TorHandler\TorHandler\obj\Debug\TorHandler.pdb
+C:\Users\Hakkı Besim\source\repos\TorHandler\TorHandler\bin\Debug\TorHandler.dll
+C:\Users\Hakkı Besim\source\repos\TorHandler\TorHandler\obj\Debug\TorHandler.dll

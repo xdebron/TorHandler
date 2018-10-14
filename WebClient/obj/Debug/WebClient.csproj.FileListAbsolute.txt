@@ -1,0 +1,9 @@
+C:\Users\Hakkı Besim\source\repos\TorHandler\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\Hakkı Besim\source\repos\TorHandler\WebClient\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Hakkı Besim\source\repos\TorHandler\WebClient\bin\Debug\WebClient.exe
+C:\Users\Hakkı Besim\source\repos\TorHandler\WebClient\bin\Debug\WebClient.pdb
+C:\Users\Hakkı Besim\source\repos\TorHandler\WebClient\bin\Debug\TorHandler.dll
+C:\Users\Hakkı Besim\source\repos\TorHandler\WebClient\bin\Debug\TorHandler.pdb
+C:\Users\Hakkı Besim\source\repos\TorHandler\WebClient\obj\Debug\WebClient.csproj.CopyComplete
+C:\Users\Hakkı Besim\source\repos\TorHandler\WebClient\obj\Debug\WebClient.exe
+C:\Users\Hakkı Besim\source\repos\TorHandler\WebClient\obj\Debug\WebClient.pdb

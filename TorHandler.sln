@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorHandler", "TorHandler\TorHandler.csproj", "{96F4D35F-561C-40BF-BB24-7849BA75E426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{546E605E-34AE-40CA-A42D-E78C7A4AD6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96F4D35F-561C-40BF-BB24-7849BA75E426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F4D35F-561C-40BF-BB24-7849BA75E426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F4D35F-561C-40BF-BB24-7849BA75E426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F4D35F-561C-40BF-BB24-7849BA75E426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546E605E-34AE-40CA-A42D-E78C7A4AD6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546E605E-34AE-40CA-A42D-E78C7A4AD6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546E605E-34AE-40CA-A42D-E78C7A4AD6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546E605E-34AE-40CA-A42D-E78C7A4AD6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C1E8F5E-873B-4AC2-B979-AE819DDEB082}
+	EndGlobalSection
+EndGlobal
